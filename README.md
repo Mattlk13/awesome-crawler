@@ -62,6 +62,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
 * [webBee](https://github.com/pkwenda/webBee) - A DFS web spider.
+* [spider-flow](https://github.com/ssssssss-team/spider-flow) - A visual spider framework, it's so good that you don't need to write any code to crawl the website.
 
 
 ## C# 
@@ -71,6 +72,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
 * [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
 * [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
+* [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library in C#.
 
 ## JavaScript
 * [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
@@ -90,6 +92,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.
     * [laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel 5 Facade for Goutte.
 * [dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
+* [QueryList](https://github.com/jae-jae/QueryList) - The progressive PHP crawler framework.
 * [pspider](https://github.com/hightman/pspider) - Parallel web crawler written in PHP.
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 * [spatie/crawler](https://github.com/spatie/crawler) - An easy to use, powerful crawler implemented in PHP. Can execute Javascript.
@@ -131,6 +134,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
 * [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping.
 * [Dataflow kit](https://github.com/slotix/dataflowkit) - Extract structured data from web pages. Web sites scraping.
+* [Hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 
 
 ## Scala
